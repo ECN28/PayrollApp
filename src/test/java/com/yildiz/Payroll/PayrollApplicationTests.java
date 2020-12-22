@@ -1,10 +1,10 @@
-package com.yildiz.PayrollApp;
+package com.yildiz.Payroll;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PayrollAppApplicationTests {
+class PayrollApplicationTests {
 
 	@Test
 	void contextLoads() {

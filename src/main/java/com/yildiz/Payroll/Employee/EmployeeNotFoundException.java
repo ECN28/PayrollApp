@@ -1,4 +1,4 @@
-package com.yildiz.Payroll;
+package com.yildiz.Payroll.Employee;
 
 public class EmployeeNotFoundException extends RuntimeException {
 	

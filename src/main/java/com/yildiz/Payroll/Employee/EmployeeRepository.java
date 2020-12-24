@@ -1,4 +1,4 @@
-package com.yildiz.Payroll;
+package com.yildiz.Payroll.Employee;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

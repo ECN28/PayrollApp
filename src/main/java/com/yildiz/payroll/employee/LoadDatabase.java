@@ -1,4 +1,4 @@
-package com.yildiz.Payroll.Employee;
+package com.yildiz.payroll.employee;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

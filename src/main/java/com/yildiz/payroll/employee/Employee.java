@@ -1,4 +1,4 @@
-package com.yildiz.Payroll.Employee;
+package com.yildiz.payroll.employee;
 
 import java.util.Objects;
 
@@ -13,7 +13,7 @@ import javax.persistence.Id;
  */
 
 @Entity
-public class Employee {
+class Employee {
 	
 	
 	/*
